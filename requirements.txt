@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+torchvision
+Pillow
+optuna
+ncps
+onnx
+onnxruntime
+python-socketio
+eventlet
